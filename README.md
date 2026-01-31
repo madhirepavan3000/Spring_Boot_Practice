@@ -3,7 +3,6 @@
 
 
 
-```
 
 **Key sections:**
 1. **StoreApplication.java** - Entry point with Spring Boot initialization and dependency injection demonstration
@@ -19,4 +18,5 @@
 - Spring annotations (@SpringBootApplication, @Service, @Controller, @Autowired, @RequestMapping, @Value)
 - IoC Container management
 - Property externalization
+
 
